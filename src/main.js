@@ -2,11 +2,11 @@ import SiteMenuView from "./view/site-menu.js";
 import FilterView from "./view/filter.js";
 import TaskView from "./view/task.js";
 import TaskEditView from "./view/task-edit.js";
-import LoadMoreButtonView from "./view/load-more-button.js";
+import LoadMoreButtonView from "./view/load-button.js";
 import BoardView from "./view/board.js";
 import SortView from "./view/sort.js";
 import TaskListView from "./view/task-list.js";
-import {render, RenderPosition} from "./utils.js";
+import {render, RenderPosition} from "./util.js";
 import {generateTask} from "./mock/task.js";
 import {generateFilter} from "./mock/filter.js";
 

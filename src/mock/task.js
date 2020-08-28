@@ -1,4 +1,4 @@
-import {getRandomInteger} from "../util";
+import {getRandomInteger} from "../utils";
 import {COLORS} from "../const.js";
 
 const generateDescription = () => {
